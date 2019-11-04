@@ -24,7 +24,7 @@ def calculate(myarg):
             stack.append(result)
         print(stack)
     if len(stack) != 1:
-        raise TypeError("Too many parameters")
+        raise TypeError("Too many parameterss")
     return stack.pop()
 
 def main():
