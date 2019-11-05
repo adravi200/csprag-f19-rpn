@@ -37,7 +37,7 @@ def calculate(myarg):
             stack.append(result)
             printInput(arg1,token,arg2,result)
     if len(stack) != 1:
-        raise TypeError("Too many parameterss")
+        raise TypeError("Too many parametersss")
     return stack.pop()
 
 def main():
