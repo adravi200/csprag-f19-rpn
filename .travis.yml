@@ -2,4 +2,4 @@ language: python
 script: make test
 #This is a comment 
 install:
- - pip install -r requirements.txt
+ - pip3 install -r requirements.txt
